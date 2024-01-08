@@ -1,0 +1,27 @@
+.a2 {
+    position: absolute;
+    top: 15%;
+    left: 89%;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 180px;
+    height: 45px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 45px;
+}
+
+.a3 {
+    position: absolute;
+    top: 15%;
+    left: 69%;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 180px;
+    height: 45px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 45px;
+}

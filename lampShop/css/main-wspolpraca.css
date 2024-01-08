@@ -1,0 +1,41 @@
+main h1 {
+    font-size: 27px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+main img {
+    width: 100%;
+}
+
+main p {
+    font-size: 17px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    margin-bottom: 20px;
+    line-height: 150%;
+    margin-top: 20px;
+}
+
+main {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 100px;
+}
+
+main li {
+    margin-left: 60px;
+}
+
+main li a {
+    list-style: circle;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    margin-bottom: 20px;
+    line-height: 150%;
+    color: black;
+}

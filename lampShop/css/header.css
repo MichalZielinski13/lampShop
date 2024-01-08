@@ -1,0 +1,46 @@
+header{
+    background: url("/images/064.jpg");
+    height: 400px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    
+}
+
+header h1{
+  text-transform: uppercase;
+  font-size: 60px;
+  display: inline-block;
+  margin: 70px auto 15px auto;  
+  font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+   
+   
+}
+
+header p{
+    line-height: 25px;
+}
+
+header .first-a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    margin-top: 20px;
+    display: inline-block;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+header .second-a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin-top: 20px;
+    display: inline-block;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
